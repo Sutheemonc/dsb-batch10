@@ -13,4 +13,4 @@ My data science analytics projects
 Reach out to me at sutheemon.c@gmail.com
 
 # Image
-[!Cat](https://wallpapers.com/images/featured/kitty-cat-pictures-nzlg8fu5sqx1m6qj.jpg)
+![Cat](https://wallpapers.com/images/featured/kitty-cat-pictures-nzlg8fu5sqx1m6qj.jpg)
